@@ -49,7 +49,7 @@ body {
 .gallery__item {
 	will-change: transform;
 	margin-bottom: var(--gap);
-	/* transform: scale(1.001); */
+	transform: scale(1.001);
 	transition: 0.3s;
 }
 .gallery__item:hover {
